@@ -1,5 +1,4 @@
 from collections import Counter
-
 class A:
     # in Tibetan its called Tsak
     spliter = "?"
