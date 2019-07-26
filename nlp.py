@@ -11,7 +11,7 @@ class A:
     # bigram
 
     def bigram(text):
-        bgram = []
+        bigram = []
         text = getEachWord(text)
         combinedWord = ""
         for i in range(len(text)):
