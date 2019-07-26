@@ -1,6 +1,4 @@
 from collections import Counter
-
-# ལྷན་ཚོགས་ཤིག་
 # in Tibetan its called Tsak
 spliter = "་"
 dataSet = ""
