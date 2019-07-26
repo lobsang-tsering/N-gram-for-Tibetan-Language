@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-﻿from collections import Counter
-=======
-imputString = """from collections import Counter
->>>>>>> 43f92001496747df3a18be09617c5c00a1464c55
+from collections import Counter
+
 class A:
     # in Tibetan its called Tsak
     spliter = "?"
@@ -67,9 +64,4 @@ class A:
     getInput()
 class B:
     def sayHello():
-<<<<<<< HEAD
         pass
-=======
-        pass
-"""
->>>>>>> 43f92001496747df3a18be09617c5c00a1464c55
